@@ -2,4 +2,5 @@
 
 For tracking score count
 
-<img src="https://user-images.githubusercontent.com/25387557/118005316-2ed73000-b342-11eb-97cb-ee11f04e7f55.PNG" width="600" height="600"><img src="https://user-images.githubusercontent.com/25387557/118005318-2f6fc680-b342-11eb-8298-3125b52913a1.PNG" width="600" height="600">
+<img src="https://user-images.githubusercontent.com/25387557/118005760-92f9f400-b342-11eb-902d-43d953fc93d8.PNG" width="400" height="400"><img src="https://user-images.githubusercontent.com/25387557/118005762-92f9f400-b342-11eb-96c0-1a21db844066.PNG" width="400" height="400">
+
